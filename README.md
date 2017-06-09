@@ -2,7 +2,7 @@
 Yet another PowerCLI script to remove old snapshots
 
 # Requirements
-* VMware vCenter Server
+* VMware vCenter Server (for Windows)
 * VMware PowerCLI
 
 # Recommended
